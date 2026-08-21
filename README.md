@@ -8,5 +8,4 @@ Task Assignment Overview1.
 
     
 - Member 4: UI/UX & Class Design EngineerTasks: Create the Class Diagram and write the Interface Design Description.  Approach: Map out system entities with their specific attributes and methods, and clearly describe the console interface in text form.
-- 
-- Nguyễn Tuấn Minh : Database DesignerTasks: Design the comprehensive Data Model for the system.  Approach: Define the exact database tables, primary keys, and foreign keys, ensuring strict alignment with the Class Diagram.
+- Bùi Tuấn Minh: Database DesignerTasks: Design the comprehensive Data Model for the system.  Approach: Define the exact database tables, primary keys, and foreign keys, ensuring strict alignment with the Class Diagram.
