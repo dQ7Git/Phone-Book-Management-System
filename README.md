@@ -11,9 +11,10 @@ Task Assignment Overview1.
 
 - Bùi Tuấn Minh : Database DesignerTasks: Design the comprehensive Data Model for the system.  Approach: Define the exact database tables, primary keys, and foreign keys, ensuring strict alignment with the Class Diagram.
 
-| Thành viên     |     MSSV     | Hoàn Thành |
-| Đặng Quốc Tấn  | 082206012041 |    100%    |
-| Nguyễn Đức Huy | 089206011116 |    100%    |   
-| Châu Thanh Hậu | 091206018593 |    100%    |
-| Bùi Tuấn Minh  | 084207008890 |    100%    |
-| Trần Quốc Anh  | 066206013741 |    100%    |
+| Thành viên | MSSV | Hoàn Thành |
+|---|---|---|
+| Đặng Quốc Tấn | 082206012041 | 100% |
+| Nguyễn Đức Huy | 089206011116 | 100% |
+| Châu Thanh Hậu | 091206018593 | 100% |
+| Bùi Tuấn Minh | 084207008890 | 100% |
+| Trần Quốc Anh | 066206013741 | 100% |
