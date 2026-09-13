@@ -1,0 +1,6 @@
+# Thư viện bắt buộc để kết nối MySQL
+mysql-connector-python>=8.0.0
+
+# Thư viện băm mật khẩu bcrypt (NFR4 - cost factor >= 10) - khuyến khích, không bắt buộc.
+# Nếu không cài, database.py tự động chuyển sang băm bằng SHA-256.
+bcrypt>=4.0.0
